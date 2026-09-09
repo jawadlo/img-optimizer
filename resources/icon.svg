@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Glyph: Phosphor Icons image-duotone, MIT. https://github.com/phosphor-icons/core -->
+  <defs>
+    <linearGradient id="bg" x1="160" y1="80" x2="880" y2="960" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2c271c"/>
+      <stop offset="100%" stop-color="#12100c"/>
+    </linearGradient>
+    <linearGradient id="glyph" x1="256" y1="220" x2="768" y2="820" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f0c37a"/>
+      <stop offset="100%" stop-color="#e2a04a"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="40" width="944" height="944" rx="220" fill="url(#bg)"/>
+  <rect x="68" y="68" width="888" height="888" rx="196" fill="none" stroke="#e2a04a" stroke-width="10" opacity="0.38"/>
+  <g transform="translate(208 208) scale(2.375)" fill="url(#glyph)">
+    <path d="M224,56V178.06l-39.72-39.72a8,8,0,0,0-11.31,0L147.31,164,97.66,114.34a8,8,0,0,0-11.32,0L32,168.69V56a8,8,0,0,1,8-8H216A8,8,0,0,1,224,56Z" opacity="0.38"/>
+    <path d="M216,40H40A16,16,0,0,0,24,56V200a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A16,16,0,0,0,216,40Zm0,16V158.75l-26.07-26.06a16,16,0,0,0-22.63,0l-20,20-44-44a16,16,0,0,0-22.62,0L40,149.37V56ZM40,172l52-52,80,80H40Zm176,28H194.63l-36-36,20-20L216,181.38V200ZM144,100a12,12,0,1,1,12,12A12,12,0,0,1,144,100Z"/>
+  </g>
+</svg>
