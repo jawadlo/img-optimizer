@@ -7,7 +7,7 @@ Open a photo, crop it if you want, pick a format and quality, then export a smal
 <p align="center">
   <img src="docs/screenshot.jpg" alt="Image Optimizer screenshot" width="800">
 </p>
-
+<!-- 
 ## Download
 
 You can install the app without cloning this repo or installing Node.js. Download only the Windows installer:
@@ -16,7 +16,7 @@ You can install the app without cloning this repo or installing Node.js. Downloa
 > **Tip:** For best results, extract the `.exe` from the downloaded archive manually using WinZip or WinRAR before running the installer.
 
 That file is the one in `dist/img-optimizer-1.0.0-setup.exe`. Attach it to a GitHub Release so the link works — the `dist/` folder is not committed to the repo.
-
+ -->
 ## Why use it?
 
 - **Nothing is uploaded.** Encoding happens locally with [sharp](https://sharp.pixelplumbing.com/).
